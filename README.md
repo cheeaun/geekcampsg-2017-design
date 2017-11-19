@@ -3,6 +3,12 @@ Geekcamp Singapore 2017 design
 
 > Conference logo for [Geekcamp Singapore 2017](http://geekcamp.sg/)
 
+![Geekcamp Logo](exports/geekcamp-color-blue-bg.svg)
+
+With 'Singapore' text:
+
+![Geekcamp Logo](exports/geekcamp-color-blue-bg-singapore.svg)
+
 Two directories:
 
 - `sources`: source artwork files, made with [Affinity Designer](https://affinity.serif.com/en-us/designer/).
